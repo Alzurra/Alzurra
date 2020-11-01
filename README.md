@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
+https://img.shields.io/badge/-NAME%20LASTNAME-324ccc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/USER/)](https://www.linkedin.com/in/USER/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
