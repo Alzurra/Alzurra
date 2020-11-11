@@ -4,7 +4,7 @@
 
 
                                         
-  ![github-inspectocat-1](https://user-images.githubusercontent.com/64970716/97817211-ac2a3580-1c79-11eb-95c4-8c1eca7b2efa.jpg) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alzurra&theme=dark&show_icons=true)
+  ![github-inspectocat-1](https://user-images.githubusercontent.com/64970716/97817211-ac2a3580-1c79-11eb-95c4-8c1eca7b2efa.jpg) 
   
-
+  
 ### Heloooo! Welcome to my profile
