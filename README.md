@@ -4,8 +4,9 @@
 
 # Thiago da Costa Silva :man_technologist:
 
-                                        
-![my-octocat-1608811238464](https://user-images.githubusercontent.com/64970716/103087705-26ff3500-45c7-11eb-86f8-303b139abe20.png) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra)](https://github.com/anuraghazra/github-readme-stats)  
+<img align='left' src="https://res.cloudinary.com/dufx2cbfb/image/upload/v1608816787/my-octocat-1608811238464_cwsj8c.png" width="350">
+                             
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
