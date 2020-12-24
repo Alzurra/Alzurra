@@ -4,9 +4,9 @@
 
 
                                         
-![my-octocat-1608811238464](https://user-images.githubusercontent.com/64970716/103087705-26ff3500-45c7-11eb-86f8-303b139abe20.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![my-octocat-1608811238464](https://user-images.githubusercontent.com/64970716/103087705-26ff3500-45c7-11eb-86f8-303b139abe20.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 ### Heloooo! Welcome to my profile
