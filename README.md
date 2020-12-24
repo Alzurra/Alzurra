@@ -4,7 +4,7 @@
 
 
                                         
-  ![github-inspectocat-1](https://user-images.githubusercontent.com/64970716/97817211-ac2a3580-1c79-11eb-95c4-8c1eca7b2efa.jpg) 
+  ![my-octocat-1608811238464](https://user-images.githubusercontent.com/64970716/103087560-a3454880-45c6-11eb-9421-df3c0241ca1f.png) 
   
   
 ### Heloooo! Welcome to my profile
