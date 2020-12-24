@@ -5,8 +5,11 @@
 # Thiago da Costa Silva :man_technologist:
 
 <img align='left' src="https://res.cloudinary.com/dufx2cbfb/image/upload/v1608816787/my-octocat-1608811238464_cwsj8c.png" width="350">
-                             
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra)](https://github.com/anuraghazra/github-readme-stats)  
+         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alzurra)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
 
 
 
